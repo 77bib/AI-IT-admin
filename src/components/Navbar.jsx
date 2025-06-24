@@ -87,7 +87,7 @@ const Navbar = () => {
               {aToken ? 'Admin backend + add doctor' : 'Admin Lab Medical'}
             </motion.span>
           </motion.div>
-
+{/* cccccccccccccccccccccccccccccc */}
           {/* Logout Button */}
           <motion.button
             onClick={logout}
